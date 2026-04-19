@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WealthTracker</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tabs">Tabs</string>
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="save">Save</string>
+    <string name="result_will_appear_here">Result will appear here</string>
+    <string name="final_savings">Final Savings: %1$.2f</string>
+    <string name="name_andria_gvenetadze_nk_0_73">Name: Andria Gvenetadze\nK = 0.73</string>
+</resources>
